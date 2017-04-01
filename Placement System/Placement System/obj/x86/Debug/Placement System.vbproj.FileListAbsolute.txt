@@ -1,0 +1,36 @@
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\bin\Debug\Placement System.exe
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\bin\Debug\Placement System.pdb
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\bin\Debug\Placement System.xml
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement_System.Form1.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement_System.Resources.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement System.vbproj.GenerateResource.Cache
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement System.exe
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement System.xml
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\Placement System\Placement System\obj\x86\Debug\Placement System.pdb
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form2.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Resources.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement System.vbproj.GenerateResource.Cache
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Placement System.exe.config
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form3.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form4.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Placement System.exe
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Placement System.pdb
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Placement System.xml
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement System.exe
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement System.xml
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement System.pdb
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form5.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Database1.mdf
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\bin\Debug\Database1_log.ldf
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form6.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form7.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form10.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form8.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form9.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form11.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form13.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form1.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form14.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form15.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form16.resources
+C:\Users\Pravat\Documents\Visual Studio 2010\Projects\1.Placement System\Placement System\obj\x86\Debug\Placement_System.Form17.resources
